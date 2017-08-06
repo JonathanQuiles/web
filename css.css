@@ -20,7 +20,6 @@
 }
 
 
-
 .font-open-sans{
     font-family: 'Open Sans', sans-serif;
 }
@@ -69,8 +68,6 @@
 }
 
 
-
-
 .fondo-navbar>li:hover{
     background-color: rgb(122, 35, 47);
 }
@@ -93,7 +90,9 @@
 
 .fondo-2{
     background-color: rgb(37, 34, 31);
-    height: 600px;
+    color: rgb(245, 243, 242);
+    font-family: 'Finger Paint', cursive;
+    text-align: center;
 }
 .fondo-3{
     background-color: rgb(122, 35, 47);
@@ -104,12 +103,20 @@
 }
 .fondo-5{
     background-color: rgb(122, 35, 47);
-    height: 145px;
+    height: 70px;
 }
 
 
-.promociones-de-fondo-3{  
-    height: 45%;
+.menu-fondo-2{
+    border-radius: 25px;
+    margin-bottom: 25px;
+    height: 300px;
+    width: 100%;
+}
+.promociones-de-fondo-3{ 
+    border-radius: 25px;
+    height: 350px;
+    width: 100%;
     margin-bottom: 25px;
 }
 .iconos-de-fondo-4{
