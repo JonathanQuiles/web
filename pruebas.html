@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!-- index.html -->
+<html ng-app='angularRoutingApp'>
+<head>
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" />
+</head>
+<body ng-controller='mainController'>
+  <header>
+    <h1>Angular Routing</h1>
+      <nav> 
+        <ul> 
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#acerca">Acerca de</a></li>
+          <li><a href="#contacto">Contacto</a></li> 		</ul> 
+      </nav>
+    </header>
+    
+    <div id="main">
+      <div class="jumbotron text-center">
+  <h1>Acerca De</h1> 
+  <p>{{ message }}</p>
+</div>
+
+<div class="jumbotron text-center">
+  <h1>Contacto</h1>
+  <p>{{ message }}</p>
+</div>
+
+<div class="jumbotron text-center">
+  <h1>Página Principal</h1> 
+  <p>{{ message }}</p> 
+</div>
+      <div ng-view></div> 
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.7/angular.min.js"></script> 
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.3/angular-route.js"></script>
+    <script src="js/angular.js"></script>
+  </body>
+  </html>

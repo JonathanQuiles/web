@@ -1,0 +1,32 @@
+[
+     {"id": 0, "titulo": "Mamá, Mamá ¿Puedo salir a jugar?", "resena": "Cuando sea más grande quiero ser jardinero, sé que la mayoría de los niños de mi edad quieren ser policías, bomberos o doctores pero esas personas tienen demasiadas obligaciones, además si fuera jardinero podría estar fuera todo el día, rodeado de plantas y sintiendo el sol.", "historia": "", "categoria": "Reto"},      
+        
+      {"id": 1, "titulo": "asdasdadsf sadfsadfasdf", "resena": "Cuando sea más grande quiero ser jardinero, sé que la mayoría de los niños de mi edad quieren ser policías, bomberos o doctores pero esas personas tienen demasiadas obligaciones, además si fuera jardinero podría estar fuera todo el día, rodeado de plantas y sintiendo el sol.", "historia": "", "categoria": "Cuento"},
+        
+      {"id": 2, "titulo": "1", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "1", "categoria": "Reto"},
+            
+      {"id": 3, "titulo": "2", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "2", "categoria": "Reto"},
+        
+      {"id": 4, "titulo": "3", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "3", "categoria": "Fragmento"},
+        
+      {"id": 5, "titulo": "4", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "4", "categoria": "Fragmento"},
+        
+      {"id": 6, "titulo": "5", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "5", "categoria": "Cuento"},
+        
+      {"id": 7, "titulo": "6", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "6", "categoria": "Reto"},
+        
+      {"id": 8, "titulo": "7", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "7", "categoria": "Microrelato"},
+        
+      {"id": 9, "titulo": "8", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "8", "categoria": "Microrelato"},
+        
+      {"id": 10, "titulo": "9", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "9", "categoria": "Reto"},
+        
+      {"id": 11, "titulo": "10", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "10", "categoria": "Cuento"},
+        
+      {"id": 12, "titulo": "11", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "11", "categoria": "Microrelato"},
+    
+      {"id": 13, "titulo": "12", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "12", "categoria": "Microrelato"},
+    
+      {"id": 14, "titulo": "13", "resena": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500...", "historia": "13", "categoria": "Microrelato"}
+]
+
