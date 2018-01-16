@@ -1,0 +1,13 @@
++-------------+--------------+------+-----+---------+----------------+
+| Field       | Type         | Null | Key | Default | Extra          |
++-------------+--------------+------+-----+---------+----------------+
+| id          | int(6)       | NO   | PRI | NULL    | auto_increment |
+| modelo      | varchar(30)  | NO   |     | NULL    |                |
+| precio      | int(8)       | NO   |     | NULL    |                |
+| age         | int(4)       | NO   |     | NULL    |                |
+| kilometraje | int(7)       | NO   |     | NULL    |                |
+| descripcion | varchar(500) | NO   |     | NULL    |                |
+| marca       | varchar(30)  | NO   |     | NULL    |                |
+| tipo        | varchar(14)  | NO   |     | NULL    |                |
++-------------+--------------+------+-----+---------+----------------+
+8 rows in set (0.00 sec)
